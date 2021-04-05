@@ -1,0 +1,38 @@
+
+*{
+  margin:0px;
+  padding:0px;
+  }
+  
+  body {
+  text-align:center; /* thi is good */
+  
+  }
+  
+  #page-wrap {
+  width: 800px;
+  text-align:left;
+  margin: 0 auto;
+  }
+  
+  h4{
+      padding: 10px 12px;
+  }
+  .counter {
+    margin:1.5%;
+    background-color: rgb(198,200,202);
+    width:50px;
+    border-radius: 50%;
+    height:50px;
+     margin: 0px 350px;
+  }
+  
+  .img{
+     padding-left:  310px;
+    height: 100px;
+  }
+  
+  .btn{
+     margin: 20px 300px;
+     
+  }
